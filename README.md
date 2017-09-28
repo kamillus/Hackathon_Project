@@ -1,2 +1,1 @@
-# Hackathon_Project
-Dofacso Hackathon 2.0
+This is a sample project for the Arcelormittal hackathon. The product is to be used to present integration between Github, ServiceNow, and Jenkins.
