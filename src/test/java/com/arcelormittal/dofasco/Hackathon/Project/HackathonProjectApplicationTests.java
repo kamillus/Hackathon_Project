@@ -23,5 +23,5 @@ public class HackathonProjectApplicationTests {
 	{
 		assertEquals("hello", a.helloAction());
 	}
-	
+
 }
